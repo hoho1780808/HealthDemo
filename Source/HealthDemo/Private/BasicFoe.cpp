@@ -16,6 +16,7 @@ ABasicFoe::ABasicFoe()
 	SetRootComponent(Body);
 	// attach the health
 	Health = CreateDefaultSubobject<UHealth>(TEXT("Health"));
+
 }
 
 // Called when the game starts or when spawned

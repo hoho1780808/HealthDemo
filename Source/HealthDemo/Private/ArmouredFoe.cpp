@@ -4,7 +4,8 @@
 #include "ArmouredFoe.h"
 #include "ArmouredHealth.h"
 
-AArmouredFoe::AArmouredFoe()
-{
-	Super::BeginPlay();
-}
+//AArmouredFoe::AArmouredFoe()
+//{
+//	Super::ABasicFoe();
+	
+//}
